@@ -1,0 +1,6 @@
+projectKey=basede
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=basede
+ceTaskId=AXL87GRL3_mmHWyhzHzI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXL87GRL3_mmHWyhzHzI
